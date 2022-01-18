@@ -1,4 +1,4 @@
-# PolynomialAlgorithm
+# Polynomial Algorithm
 
 Put the description...
 

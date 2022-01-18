@@ -1,4 +1,6 @@
-# PolyG
+# PolynomialAlgorithm
+
+Put the description...
 
 ## Using
 

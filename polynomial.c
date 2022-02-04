@@ -225,18 +225,34 @@ int main()
 	// create_node(2.0, 0, &poly1);
 
     // 1x^4 - 2x^2
-	create_node(1, 4, &poly1);
-	create_node(-2, 2, &poly1);
+	// create_node(1, 4, &poly1);
+	// create_node(-2, 2, &poly1);
 
-	// Create 2nd Polynomial (Divisor):
+	// 5x^1 + 5
+	// create_node(5.0, 1, &poly2);
+	// create_node(5.0, 0, &poly2);
+
+    // -2x^2 + 1x^4 
+    create_node(-2, 2, &poly1);
+    create_node(1, 4, &poly1);
+  
+  	// Create 2nd Polynomial (Divisor):
 	// 5x^1 + 5
 	// create_node(5.0, 1, &poly2);
 	// create_node(5.0, 0, &poly2);
 
 	// 3x^3 +7
-	create_node(3, 3, &poly2);
-	create_node(7, 0, &poly2);
+	// create_node(3, 3, &poly2);
+	// create_node(7, 0, &poly2);
 
+	// 5x^2 + 4x^1 + 2
+	// create_node(5.0, 2, &poly2);
+	// create_node(4.0, 1, &poly2);
+	// create_node(2.0, 0, &poly2);
+
+    // 3x^3 +7
+    create_node(3, 3, &poly2);
+    create_node(7, 0, &poly2);
 
 	// Function Call
 	divide_poly(poly1, poly2);

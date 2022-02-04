@@ -18,6 +18,7 @@ $ ./out.c
 
 ## Authors
 
-- **Test:** MaxCkett
-- **C Maintainer:** Max Base
-- **C++ Maintainer:** another_ghasem
+- **Test:** Mahmoud Ahmadi (@MaxCkett)
+- **C Maintainer:** Max Base (@BaseMax)
+- **C++ Maintainer:** Ghasem Ramezani (@another_ghasem)
+

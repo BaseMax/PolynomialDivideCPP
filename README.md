@@ -11,5 +11,5 @@ $ ./polyg
 
 ## Authors
 
-- NerdMood
+- MaxCkett
 - Max Base

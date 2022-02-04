@@ -4,9 +4,16 @@ Put the description...
 
 ## Using
 
+**C++:**
 ```bash
-$ g++ polyg.cpp -o polyg
-$ ./polyg
+$ g++ polynomial.cpp -o out.cpp
+$ ./out.cpp
+```
+
+**C:**
+```bash
+$ gcc polynomial.c -o out.c
+$ ./out.c
 ```
 
 ## Authors

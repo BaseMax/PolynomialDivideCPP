@@ -18,5 +18,6 @@ $ ./out.c
 
 ## Authors
 
-- MaxCkett
-- Max Base
+- **Test:** MaxCkett
+- **C Maintainer:** Max Base
+- **C++ Maintainer:** another_ghasem

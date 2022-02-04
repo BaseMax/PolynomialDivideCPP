@@ -1,6 +1,6 @@
 # Polynomial Algorithm
 
-Put the description...
+Implement algorithm of **divide** operator of **polynomial** in **C++**.
 
 ## Using
 

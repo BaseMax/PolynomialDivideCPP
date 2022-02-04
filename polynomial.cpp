@@ -36,6 +36,7 @@ void create_node(float x, int y, struct Node** temp)
 		r->next = NULL;
 	}
 }
+
 void store_quotient(float mul_c, int diff, struct Node* quo)
 {
 	while (quo->next != NULL) {
@@ -48,6 +49,7 @@ void store_quotient(float mul_c, int diff, struct Node* quo)
 	quo = quo->next;
 	quo->next = NULL;
 }
+
 void formNewPoly(int diff, float mul_c, struct Node* poly)
 {
 	while (poly->next != NULL) {
@@ -56,6 +58,7 @@ void formNewPoly(int diff, float mul_c, struct Node* poly)
 		poly = poly->next;
 	}
 }
+
 void copyList(struct Node* r, struct Node** copy)
 {
 	while (r != NULL) {
@@ -81,6 +84,7 @@ void copyList(struct Node* r, struct Node** copy)
 		r = r->next;
 	}
 }
+
 void polySub(struct Node* poly1, struct Node* poly2, struct Node* poly)
 {
 	while (poly1->next && poly2->next) {
@@ -142,6 +146,7 @@ void polySub(struct Node* poly1, struct Node* poly2, struct Node* poly)
 		poly->next = NULL;
 	}
 }
+
 void show(struct Node* node)
 {
 	int count = 0;
@@ -165,6 +170,7 @@ void show(struct Node* node)
 
 	cout << "\n";
 }
+
 void divide_poly(struct Node* poly1, struct Node* poly2)
 {
 	struct Node *rem = NULL, *quo = NULL;

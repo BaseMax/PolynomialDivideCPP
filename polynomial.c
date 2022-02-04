@@ -1,4 +1,4 @@
-// Language: C++
+// Language: C
 // https://github.com/BaseMax/PolynomialAlgorithm
 
 #include <stdio.h>

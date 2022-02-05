@@ -1,4 +1,4 @@
-# Polynomial Algorithm
+# Polynomial Divide Algorithm CPP
 
 Implement algorithm of **divide** operator of **polynomial** in **C++**.
 

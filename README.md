@@ -4,16 +4,12 @@ Implement algorithm of **divide** operator of **polynomial** in **C++**.
 
 ## Using
 
-**C++:**
 ```bash
-$ g++ polynomial.cpp -o out.cpp
-$ ./out.cpp
-```
-
-**C:**
-```bash
-$ gcc polynomial.c -o out.c
-$ ./out.c
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+$ ./Polynomial
 ```
 
 ## Authors

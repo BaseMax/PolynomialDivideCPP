@@ -12,7 +12,7 @@ $ make
 $ ./Polynomial
 ```
 
-If you are looking for **C** and **Python** version, you can check https://github.com/BaseMax/PolynomialDivide which implement using **C** and **Python**.
+<!-- If you are looking for **C** and **Python** version, you can check https://github.com/BaseMax/PolynomialDivide which implement using **C** and **Python**. -->
 
 ## Authors
 

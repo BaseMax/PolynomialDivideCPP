@@ -16,7 +16,7 @@ $ ./Polynomial
 
 ## Authors
 
-- Maximilian Beckett (@MaxCkett)
+- Maximilian Edison (@MaxianEdison)
 - Max Base (@BaseMax)
 - Ghasem Ramezani (@another_ghasem)
 
